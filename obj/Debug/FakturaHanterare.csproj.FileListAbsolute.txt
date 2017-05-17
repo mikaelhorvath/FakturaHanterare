@@ -1,0 +1,9 @@
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\bin\Debug\FakturaHanterare.exe.config
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\bin\Debug\FakturaHanterare.exe
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\bin\Debug\FakturaHanterare.pdb
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\obj\Debug\FakturaHanterare.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\obj\Debug\FakturaHanterare.MainForm.resources
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\obj\Debug\FakturaHanterare.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\obj\Debug\FakturaHanterare.csproj.GenerateResource.Cache
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\obj\Debug\FakturaHanterare.exe
+c:\users\mikae\documents\visual studio 2015\Projects\FakturaHanterare\FakturaHanterare\obj\Debug\FakturaHanterare.pdb
