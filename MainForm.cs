@@ -44,7 +44,12 @@ namespace FakturaHanterare
             }else
             {
                 string curItem = listBox1.SelectedItem.ToString();
-                Console.WriteLine(curItem);
+                string recipient = email_txtBox1.Text;
+
+                EmailSender es = new EmailSender();
+                es.EmailBody = curItem;
+                es.Recipient = recipient;
+                es.SendEmail();
             }
             
         }
